@@ -21,7 +21,8 @@ I’m a passionate Graduate Wireless Research Scientist with a strong foundation
 
 - **IoT-Based Industrial Monitoring and Control System (FYP)**
 - **Fault Localization in Induction Motor using AI**
-- **Compressed Communication using Vision Transformer**
+- **Semantic Communication using Vision Transformer for Next-Gen Wireless Networks**
+- **Resource Allocation in Radio Acess Networks (RAN)**
 - **Reinforcement Learning based Power Allocation in Active RIS**
 - **UAV's Detection using YOLOv and Audio Signature**
 - And many more...
