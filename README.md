@@ -1,10 +1,30 @@
 ### Hi, I’m Muhammad Jazib
 
-I’m a passionate Graduate Wireless Research Scientist who loves to incorporate Deep Learning with the concepts of Wireless Communication IoT. I’m always looking to collaborate on topics related to:
+I’m a passionate Graduate Wireless Research Scientist with a strong foundation in Electronics and Telecommunication. I have a keen interest in incorporating Deep Learning with concepts of Wireless Communication and Embedded Systems. I’m always looking to collaborate on topics related to:
 
 - Internet of Things (IoT)
 - Cyber-Physical Systems (CPS)
 - Next Generation Wireless Communication
+
+#### Skills
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+- ![IoT](https://img.shields.io/badge/IoT-AE8B60?style=flat-square&logo=iot&logoColor=white) (Node-RED, AWS, Thingspeak)
+- ![SolidWorks](https://img.shields.io/badge/SolidWorks-FC0D1B?style=flat-square&logo=solidworks&logoColor=white)
+- ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+- NI Multisim, ISE Xilinx, STM32CubeMX, Keil uVision, COMSOL
+
+#### Projects
+
+- **IoT-Based Industrial Monitoring and Control System (FYP)**
+- **Fault Localization in Induction Motor using AI**
+- **Compressed Communication using Vision Transformer**
+- **Reinforcement Learning based Power Allocation in Active RIS**
+- **UAV's Detection using YOLOv and Audio Signature**
+- And many more...
 
 You can reach out to me via email at:
 - jazibqamar54@gmail.com
