@@ -1,6 +1,6 @@
 ### Hi, I’m Muhammad Jazib
 
-I’m a passionate Graduate Wireless Research Scientist who loves to incorporate Deep Learning with the concepts of Wireless Communication and Embedded Systems. I’m always looking to collaborate on topics related to:
+I’m a passionate Graduate Wireless Research Scientist who loves to incorporate Deep Learning with the concepts of Wireless Communication IoT. I’m always looking to collaborate on topics related to:
 
 - Internet of Things (IoT)
 - Cyber-Physical Systems (CPS)
